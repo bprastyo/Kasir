@@ -1,2 +1,2 @@
 # Kasir
- Aplikasi kasir berbasis website dikembangkan menggunakan PHP, MySQL dan CSS
+ Aplikasi Kasir Berbasis Website yang Dikembangkan Menggunakan PHP, MySQL, Javascript dan CSS
